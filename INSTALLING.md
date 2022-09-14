@@ -4,7 +4,7 @@ These are for manually installing the addon.
 
 # Installation instructions
 ## Chromium based browsers:
-| :information_source: Auto-updating builds for Google Chrome (Windows & Linux), Kiwi (Android), Ungoogled Chromium and Edge are now available |
+| :information_source: THIS ONLY WORKS ON GOOGLE CHROME OR CHROMIUM! ***NOT EDGE***|
 ### ENABLE DEVELOPER MODE
 Step 1: Drag the zip file in
 Step 2: Your done!
